@@ -467,6 +467,14 @@ app.index_string = '''
 - **Interactive Elements**: Zoom, pan, hover tooltips
 
 ---
+<img width="1804" height="886" alt="Image" src="https://github.com/user-attachments/assets/1a2beb31-8828-437f-b43a-8010b9eaab53" />
+<img width="1845" height="785" alt="Image" src="https://github.com/user-attachments/assets/a80394c2-92b6-40b4-8ed4-d2606250647d" />
+<img width="1846" height="807" alt="Image" src="https://github.com/user-attachments/assets/beb4e483-99e8-49a4-930b-591c9380b704" />
+<img width="1856" height="856" alt="Image" src="https://github.com/user-attachments/assets/17ec1158-04d9-40e3-97aa-380aa867dbd6" />
+<img width="1850" height="860" alt="Image" src="https://github.com/user-attachments/assets/7b6b6466-5cca-4338-8cf0-30a9e0a4b5a0" />
+<img width="1859" height="599" alt="Image" src="https://github.com/user-attachments/assets/a610e46d-9a63-4b64-a8e7-75c83484acc7" />
+<img width="1863" height="837" alt="Image" src="https://github.com/user-attachments/assets/63f21824-8769-47dd-81de-9a966190a7d0" />
+<img width="1875" height="897" alt="Image" src="https://github.com/user-attachments/assets/71cbb6c5-f29e-4dc0-87c6-3c8e8c514412" />
 
 ## 🚀 **Running the Dashboard**
 
